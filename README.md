@@ -25,12 +25,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Buget App 
+# 📖 Rails-React-App
+This application is developed using RoR CRUD capabilities. It allows users to create messages and post them in a web interface. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - Ruby on Rails
 - React
+- Redux
 - Ruby
 - Bubocop
 - Gems
@@ -79,15 +81,13 @@
 
 The end result should follow the following data model (this is an Entity Relationship Diagram that you are already familiar with):
 
-> ![](https://github.com/microverseinc/curriculum-rails/blob/main/capstone/images/erd_diagram.png)
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live Demo](https://budget-app-project.onrender.com)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Video
-[video](https://loom.com/share/654858a8077548e788ff212089329c4d)
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
