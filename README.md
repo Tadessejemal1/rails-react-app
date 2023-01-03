@@ -75,19 +75,10 @@ This application is developed using RoR CRUD capabilities. It allows users to cr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ER DIAGRAM-->
-
-## :card_index: Entity Relationship Diagram <a name="er-diagram"></a>
-
 The end result should follow the following data model (this is an Entity Relationship Diagram that you are already familiar with):
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Video
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
