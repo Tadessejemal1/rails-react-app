@@ -75,10 +75,6 @@ This application is developed using RoR CRUD capabilities. It allows users to cr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The end result should follow the following data model (this is an Entity Relationship Diagram that you are already familiar with):
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
