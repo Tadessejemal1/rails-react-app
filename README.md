@@ -75,19 +75,12 @@ This application is developed using RoR CRUD capabilities. It allows users to cr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ER DIAGRAM-->
-
-## :card_index: Entity Relationship Diagram <a name="er-diagram"></a>
-
-The end result should follow the following data model (this is an Entity Relationship Diagram that you are already familiar with):
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Video
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -97,26 +90,41 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-`Git` and `Ruby`
+`Git`, `React`, and `Ruby`
 
+Start by cloning the repository.
 ```
- gem install rails
+ git clone https://github.com/Tadessejemal1/rails-react-app.git
+```
+Navigate to the created folder.
+```
+ cd rails-react-app
 ```
 
 ### Install
-
-Install this project with:
-
+Install all the dependencies.
 ```sh
-  bundle install
+ bundle install
+ npm install
 ```
 
+Create and migrate the database
+```sh
+ rails db:create
+ rails db:migrate
+ rails db:seed
+```
 ### Usage
 
-To run the project, execute the following command:
+To run the project rails server , execute the following command:
 
 ```sh
   rails server or rails s
+```
+
+To run the webpack server, execute the following command:
+```sh
+  ./bin/dev
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
